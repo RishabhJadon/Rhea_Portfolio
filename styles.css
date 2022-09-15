@@ -1,0 +1,128 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+  background:#EBC7E8;
+}
+
+.navbar {
+  padding: 0;
+  margin:0;
+}
+
+.navbar-brand {
+  /* font-family: "Ubuntu"; */
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: 'Great Vibes', cursive;
+  margin-top: 20px;
+  margin-left:40px;
+}
+
+.navbar-dark .navbar-brand
+{
+  color:#007bff;
+}
+
+.nav-item {
+  padding: 0 18px;
+
+}
+
+.nav-link {
+  font-size: 1.5rem;
+  font-family: 'Electrolize', sans-serif;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link
+{
+  color:#007bff;
+}
+
+.bk_img
+{
+  height:100%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.Rhea_collage
+{
+  width:60%;
+  height:110%;
+  border-radius:50px;
+}
+
+/* About Container */
+
+.about-containter
+{
+  background-color:white;
+  margin:50px 0;
+  padding:50px;
+}
+
+.about-img
+{
+  width:25%;
+  border-radius:30px;
+}
+
+.heading,h2
+{
+  font-size: 4rem;
+  font-family: 'Great Vibes', cursive;
+  padding:30px;
+}
+
+.heading4
+{
+  padding:50px;
+}
+
+/* Product Container */
+
+h1
+{
+  font-size: 5rem;
+  font-family: 'Great Vibes', cursive;
+  padding:30px;
+}
+
+.sketch-section
+{
+  margin:50px;
+}
+
+.sketch-image
+{
+  width:200px;
+  height:300px;
+}
+
+/* Painting Section */
+
+.painting-section
+{
+padding:50px;
+}
+
+.painting-bk
+{
+  background-color:white;
+}
+/* Contact Section */
+
+.śocial-logo
+{
+  margin:50px;
+}
+
+/* **** */
+
+@media(max-width:1028px)
+{
+  
+}
