@@ -124,5 +124,11 @@ padding:50px;
 
 @media(max-width:1028px)
 {
-  
+  .Rhea_collage
+  {
+    height:50%;
+    width:30%
+    position:relative;
+    transform:rotate(1);
+  }
 }
